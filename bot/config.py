@@ -1,1 +1,1 @@
-BOT_TOKEN = '6910200748:AAHVOWJwwKcxBUpg_wsC03Pl1bz-HPpbtqc'
+BOT_TOKEN = 'Вводить сюда'
